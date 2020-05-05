@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('1125671188:AAGrcI6iw6pPBrHn_1WhKE86s8LsN0mVNOE')
+bot = telebot.TeleBot('1165145592:AAE3iXp-zN1gZBRg_Oua2lovPcn13mf1A7c')
 
 
 def extract_arg(arg):
